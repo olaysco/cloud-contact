@@ -1,0 +1,1 @@
+INSERT INTO `cloudcontact`.`contacts` (`name`, `email`, `mobile_phone`, `work_phone`) VALUES ('Samuel Josh', 'joshua@gmail.com', '08119976030', '09087645046');

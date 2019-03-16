@@ -1,0 +1,6 @@
+{
+    "require": {
+        "enygma/expose": "^3.0",
+        "monolog/monolog": "^1.24"
+    }
+}
